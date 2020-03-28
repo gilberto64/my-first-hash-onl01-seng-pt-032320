@@ -29,6 +29,8 @@ def adding
                  }
   # add 2 muskets to the shipping_manifest hash below
 
+
+
 person = {
   "name" => "Corinna",
   "age" => 36
